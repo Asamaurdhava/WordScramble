@@ -111,7 +111,7 @@ Inspired by Paul Hudson’s [100 Days of SwiftUI](https://www.hackingwithswift.c
 
 ## Author
 
-Vishesh Singh Rajput aka specstan
+**Vishesh Singh Rajput aka specstan**
 
 ---
 
